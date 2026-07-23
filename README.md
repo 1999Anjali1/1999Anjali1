@@ -115,15 +115,32 @@ https://github.com/1999Anjali1
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=1999Anjali1&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999Anjali1&layout=compact&theme=tokyonight" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1999Anjali1&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999Anjali1&layout=compact&theme=tokyonight" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=1999Anjali1&theme=tokyonight"/>
+</p>
+
+## 🌱 Currently Working On
+
+- Enterprise Application Development
+- AI-Assisted Software Development
+- Angular & Node.js Applications
+- PostgreSQL Performance Optimization
+- Enterprise REST API Development
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: YOUR LINKEDIN URL
+- 📧 Email: YOUR EMAIL
+- 🌍 Open to Opportunities in Qatar
 
 ---
 
