@@ -138,8 +138,8 @@ https://github.com/1999Anjali1
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: YOUR LINKEDIN URL
-- 📧 Email: YOUR EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-p-a2b30819b/
+- 📧 Email: anjalianjanam1999@gmail.com
 - 🌍 Open to Opportunities in Qatar
 
 ---
