@@ -102,19 +102,6 @@ Features include:
 
 ---
 
-# 📫 Connect With Me
-
-💼 LinkedIn:
-**YOUR LINKEDIN PROFILE URL**
-
-📧 Email:
-**YOUR EMAIL ADDRESS**
-
-🐙 GitHub:
-https://github.com/1999Anjali1
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -140,6 +127,7 @@ https://github.com/1999Anjali1
 
 - 💼 LinkedIn: https://www.linkedin.com/in/anjali-p-a2b30819b/
 - 📧 Email: anjalianjanam1999@gmail.com
+- 🐙 GitHub: https://github.com/1999Anjali1
 - 🌍 Open to Opportunities in Qatar
 
 ---
