@@ -1,137 +1,76 @@
-<h1 align="center">Hi 👋, I'm Anjali P</h1>
-<h3 align="center">Full Stack Software Engineer | Angular | Node.js | PostgreSQL | Enterprise Applications</h3>
+<h1 align="center">Hi, I'm Anjali P 👋</h1>
+<h3 align="center">Full Stack Developer · .NET · Angular · Linux · DevOps · AI</h3>
 
 <p align="center">
-Passionate Full Stack Software Engineer with 3.6+ years of experience building scalable enterprise web applications using Angular, Node.js, PostgreSQL, and REST APIs. Experienced in developing ESG compliance, workplace safety, and business workflow solutions while leveraging AI tools to accelerate software development.
+Full Stack Developer with 3.9 years of experience building and supporting production web applications with Angular, REST APIs and PostgreSQL.
+I build with <b>C# / ASP.NET Core</b>, deploy with <b>Docker, Kubernetes, Terraform, Ansible and GitHub Actions</b>, and add <b>AI features</b> on large language model APIs.
+</p>
+
+<p align="center">
+📍 Al-Khor, Qatar · 💼 <a href="https://www.linkedin.com/in/anjali-p-a2b30819b/">LinkedIn</a> · 📧 <a href="mailto:anjalianjanam1999@gmail.com">anjalianjanam1999@gmail.com</a> · 🌍 Open to opportunities in Qatar
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 Featured projects
 
-- 💼 Full Stack Software Engineer at **Redefine Information Technologies**
-- 🌱 Building enterprise applications using **Angular, Node.js, PostgreSQL & Strapi**
-- 🤖 Interested in AI-assisted Software Development
-- 🚀 Creator of **EMS Suite – AI-Powered Employee Management System**
-- 🏢 Developed enterprise safety modules including **HazardPro, AlertPro, InspectPro & CareIQ**
-- 📍 Based in Kerala, India
-- 🌍 Open to opportunities in **Qatar**
+### 🧳 [Safar – Tour Booking Platform](https://github.com/1999Anjali1/safar-travel-booking)
+**ASP.NET Core 10 · Angular 22 · PostgreSQL · Docker · Kubernetes · Terraform · Ansible · Groq AI**
+
+- Clean Architecture .NET API with EF Core migrations, JWT refresh tokens and a real-time SignalR staff dashboard
+- No overselling: optimistic concurrency on PostgreSQL, proven by a test of 8 simultaneous bookings on a 3-seat trip
+- **AI trip planner** – customers describe a trip in plain words; an LLM picks matching departures, and every answer is checked against the real catalogue
+- Deployment as code: Kubernetes (Kustomize), Terraform for Azure (AKS, ACR, PostgreSQL) and Ansible for Ubuntu servers – CI deploys to a real cluster and server on every push
+
+### 🦺 [PTW Management System](https://github.com/1999Anjali1/ptw-management-system)
+**ASP.NET Core 10 · EF Core · Angular · Docker**
+
+- Oil & gas Permit-to-Work workflow (requester → area authority → issuer) as a unit-tested state machine
+- Safety rules in code: gas tests before hot work, energy isolation before electrical work, segregation of duties, audit trail
+
+### 🤖 EMS Suite – AI-powered Employee Management System
+**Angular 21 · Node.js / Express · PostgreSQL (Neon) · Groq LLaMA 3.3 · Vercel · Render**
+[Frontend](https://github.com/1999Anjali1/employee-management-frontend) · [Backend](https://github.com/1999Anjali1/employee-management-backend) · [Live demo](https://employee-management-frontend-ivory-ten.vercel.app)
+
+- AI HR chatbot, salary suggestions, employee insights and a PDF resume parser that auto-fills the employee form
+- JWT authentication, email password reset, Chart.js dashboards
 
 ---
 
-## 🚀 Tech Stack
+## 💼 Experience
 
-### Frontend
+- **Full Stack Developer – Redefine Technologies** (Jul 2024 – Sep 2026) · ESG compliance & risk management platform. Built SafeIQ end to end, plus safety modules HazardPro, AlertPro, InspectPro and CareIQ (Angular, Node.js, Strapi, PostgreSQL)
+- **Software Engineer – Benzy Infotech** (Feb 2023 – Jun 2024) · TravelTech B2C and B2B platforms in Angular
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
-</p>
+---
 
-### Backend
+## 🛠️ Tech stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs" />
 
-### Database
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
+**DevOps & Cloud** &nbsp;
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,azure,nginx" />
 
-### Tools
+**Linux** &nbsp;
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
 
-<p>
+**Databases** &nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+**Tools** &nbsp;
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+
+**AI:** LLM integration (Groq, OpenAI-compatible APIs), prompt design, structured JSON output, grounding and validation
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔹 EMS Suite – AI Powered Employee Management System
-
-A complete HR management platform built using Angular, Node.js and PostgreSQL featuring:
-
-- AI HR Chatbot
-- Resume Parser
-- Salary Recommendation Engine
-- Employee Analytics Dashboard
-- JWT Authentication
-- Role Based Access
-- Responsive UI
-
-🔗 Frontend Repository:
-https://github.com/1999Anjali1/employee-management-frontend
-
-🔗 Backend Repository:
-https://github.com/1999Anjali1/employee-management-backend
-
----
-
-## 🔹 Developer Portal
-
-Enterprise developer portal built using Angular and Node.js.
-
-Features include:
-
-- Authentication
-- Dashboard
-- Role Management
-- API Integration
-- Responsive Design
-
----
-
-# 💻 Skills
-
-- Angular
-- TypeScript
-- JavaScript
-- Node.js
-- Express.js
-- PostgreSQL
-- REST APIs
-- Strapi CMS
-- SQL
-- JasperReports
-- JWT Authentication
-- Git
-- AI-Assisted Development
-- Prompt Engineering
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1999Anjali1&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999Anjali1&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=1999Anjali1&theme=tokyonight"/>
-</p>
-
-## 🌱 Currently Working On
-
-- Enterprise Application Development
-- AI-Assisted Software Development
-- Angular & Node.js Applications
-- PostgreSQL Performance Optimization
-- Enterprise REST API Development
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/anjali-p-a2b30819b/
-- 📧 Email: anjalianjanam1999@gmail.com
-- 🐙 GitHub: https://github.com/1999Anjali1
-- 🌍 Open to Opportunities in Qatar
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1999Anjali1&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999Anjali1&layout=compact&theme=tokyonight" />
 </p>
