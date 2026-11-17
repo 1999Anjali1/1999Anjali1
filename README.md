@@ -14,6 +14,14 @@ I build with <b>C# / ASP.NET Core</b>, deploy with <b>Docker, Kubernetes, Terraf
 
 ## 🚀 Featured projects
 
+### 🎧 [SmartSupport AI – Customer Support Platform](https://github.com/1999Anjali1/ai-customer-support-platform)
+**ASP.NET Core 10 · Angular 22 · PostgreSQL + pgvector · SignalR · Microsoft.Extensions.AI · Docker · Playwright**
+
+- **AI support agent with tool calling** – reads bills, changes plans and opens tickets through secure C# tools; business rules enforced in code
+- **RAG** over the help centre: hybrid vector (pgvector HNSW) + PostgreSQL full-text search merged with Reciprocal Rank Fusion, answers show sources
+- **Live hand-over to human agents** over SignalR, with AI handover summaries and suggested replies; AI answers stream token by token
+- Arabic & English with automatic RTL, LLM-classified sentiment/topic analytics, JWT roles, Docker Compose, GitHub Actions CI + Playwright E2E
+
 ### 🧳 [Safar – Tour Booking Platform](https://github.com/1999Anjali1/safar-travel-booking)
 **ASP.NET Core 10 · Angular 22 · PostgreSQL · Docker · Kubernetes · Terraform · Ansible · Groq AI**
 
