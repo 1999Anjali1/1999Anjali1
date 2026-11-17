@@ -22,12 +22,6 @@ I build with <b>C# / ASP.NET Core</b>, deploy with <b>Docker, Kubernetes, Terraf
 - **AI trip planner** – customers describe a trip in plain words; an LLM picks matching departures, and every answer is checked against the real catalogue
 - Deployment as code: Kubernetes (Kustomize), Terraform for Azure (AKS, ACR, PostgreSQL) and Ansible for Ubuntu servers – CI deploys to a real cluster and server on every push
 
-### 🦺 [PTW Management System](https://github.com/1999Anjali1/ptw-management-system)
-**ASP.NET Core 10 · EF Core · Angular · Docker**
-
-- Oil & gas Permit-to-Work workflow (requester → area authority → issuer) as a unit-tested state machine
-- Safety rules in code: gas tests before hot work, energy isolation before electrical work, segregation of duties, audit trail
-
 ### 🤖 EMS Suite – AI-powered Employee Management System
 **Angular 21 · Node.js / Express · PostgreSQL (Neon) · Groq LLaMA 3.3 · Vercel · Render**
 [Frontend](https://github.com/1999Anjali1/employee-management-frontend) · [Backend](https://github.com/1999Anjali1/employee-management-backend) · [Live demo](https://employee-management-frontend-ivory-ten.vercel.app)
